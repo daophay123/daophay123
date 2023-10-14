@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daophay123
-- 👀 I’m interested in ...
+- 👀 I’m interested in web design and development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects in order to grab a broader concept of how React could be used in various circumstances
 - 📫 How to reach me marcus.tran3003@gmail.com
